@@ -1,1 +1,1 @@
-# ecommerce-churn-analysis
+# ecommerce-customer-churn-analysis
